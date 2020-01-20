@@ -18,5 +18,5 @@ Discusses the benefits of BDD:
 Making pull requests easier to review while practicing XP and refactoring https://softwareengineering.stackexchange.com/questions/380925/making-pull-requests-easier-to-review-while-practicing-xp-and-refactoring
 
 Key take aways: 
-    - Create sensible commits that can be used to view changes
-    - Stick on topic, don't delve too deep and refactor legacy code
+- Create sensible commits that can be used to view changes
+- Stick on topic, don't delve too deep and refactor legacy code
