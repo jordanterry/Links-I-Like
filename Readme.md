@@ -20,3 +20,7 @@ Making pull requests easier to review while practicing XP and refactoring https:
 Key take aways: 
 - Create sensible commits that can be used to view changes
 - Stick on topic, don't delve too deep and refactor legacy code
+
+## Links
+- https://www.braintreepayments.com/blog/effective-pull-requests-a-guide/
+- https://medium.com/@fagnerbrack/code-review-and-test-driven-development-4c19b69b5761
