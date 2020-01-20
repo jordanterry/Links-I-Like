@@ -12,6 +12,7 @@ Discusses the benefits of BDD:
 ## Youtube Videos
 
 - [Paving your Path to becoming a better Android Developer - Rebecca Franks](https://youtu.be/aAzW12BcvGk)
+- [The Fake Problem with Junior Developers - Berta Devant](https://www.youtube.com/watch?v=CA27rme6guE)
 
 ## Helpful Stackoverflow answers
 
