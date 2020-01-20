@@ -11,5 +11,12 @@ Discusses the benefits of BDD:
 
 ## Youtube Videos
 
-Paving your Path to becoming a better Android Developer - Rebecca Franks
-https://youtu.be/aAzW12BcvGk
+- [Paving your Path to becoming a better Android Developer - Rebecca Franks](https://youtu.be/aAzW12BcvGk)
+
+## Helpful Stackoverflow answers
+
+Making pull requests easier to review while practicing XP and refactoring https://softwareengineering.stackexchange.com/questions/380925/making-pull-requests-easier-to-review-while-practicing-xp-and-refactoring
+
+Key take aways: 
+    - Create sensible commits that can be used to view changes
+    - Stick on topic, don't delve too deep and refactor legacy code
