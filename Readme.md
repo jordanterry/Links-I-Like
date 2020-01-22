@@ -24,4 +24,5 @@ Key take aways:
 
 ## Links
 - https://www.braintreepayments.com/blog/effective-pull-requests-a-guide/
+- https://blog.hdias.dev/perfect-pull-request
 - https://medium.com/@fagnerbrack/code-review-and-test-driven-development-4c19b69b5761
