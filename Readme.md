@@ -28,3 +28,6 @@ Key take aways:
 - https://medium.com/@fagnerbrack/code-review-and-test-driven-development-4c19b69b5761
 - https://tonsky.me/blog/disenchantment/
 - https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/
+
+## Podcasts
+- https://corecursive.com/david-heinemeier-hansson-software-contrarian-transcript/
