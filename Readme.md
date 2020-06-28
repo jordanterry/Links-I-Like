@@ -27,8 +27,10 @@ Key take aways:
 - https://www.braintreepayments.com/blog/effective-pull-requests-a-guide/
 - https://blog.hdias.dev/perfect-pull-request
 - https://medium.com/@fagnerbrack/code-review-and-test-driven-development-4c19b69b5761
-- https://tonsky.me/blog/disenchantment/
-- https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/
 
 ## Podcasts
 - https://corecursive.com/david-heinemeier-hansson-software-contrarian-transcript/
+
+## Lamenting the state of development
+- [Sotware Disenchantment](https://tonsky.me/blog/disenchantment/)
+- [Why are we so bad at software engineering](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
