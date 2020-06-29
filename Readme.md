@@ -34,4 +34,4 @@ Key take aways:
 ## Lamenting the state of development
 - [Sotware Disenchantment](https://tonsky.me/blog/disenchantment/)
 - [Why are we so bad at software engineering](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
-- [The Androiod build system is broken] (https://jakewharton.com/the-android-build-system-is-broken/) (7 years old)
+- [The Android build system is broken](https://jakewharton.com/the-android-build-system-is-broken/) (7 years old)
