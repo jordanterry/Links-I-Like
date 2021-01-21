@@ -35,3 +35,5 @@ Key take aways:
 - [Sotware Disenchantment](https://tonsky.me/blog/disenchantment/)
 - [Why are we so bad at software engineering](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
 - [The Android build system is broken](https://jakewharton.com/the-android-build-system-is-broken/) (7 years old)
+- [Stop writing code comments](https://blog.usejournal.com/stop-writing-code-comments-28fef5272752)
+- [Why inline comments are genrerally a bad idea](https://www.tomdalling.com/blog/coding-styleconventions/why-inline-comments-are-generally-a-bad-idea/)
