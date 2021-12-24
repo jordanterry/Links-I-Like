@@ -9,6 +9,13 @@ Discusses the benefits of BDD:
 - easier reporting 
 - makes code easier more accessible to non-developers
 
+
+## Compose from first principals
+
+http://intelligiblebabble.com/compose-from-first-principles/
+
+A look at how to build an compose-like API from the ground up. It has a look at how to flatten a tree into an array-like data structure and how positional memoization works. 
+
 ## Youtube Videos
 
 - [Paving your Path to becoming a better Android Developer - Rebecca Franks](https://youtu.be/aAzW12BcvGk)
