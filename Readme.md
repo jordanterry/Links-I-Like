@@ -44,3 +44,7 @@ Key take aways:
 - [The Android build system is broken](https://jakewharton.com/the-android-build-system-is-broken/) (7 years old)
 - [Stop writing code comments](https://blog.usejournal.com/stop-writing-code-comments-28fef5272752)
 - [Why inline comments are genrerally a bad idea](https://www.tomdalling.com/blog/coding-styleconventions/why-inline-comments-are-generally-a-bad-idea/)
+
+## Joining a Company
+
+- https://www.reddit.com/r/cscareerquestions/comments/k7627h/do_you_have_a_list_of_standard_things_you_do_when/
